@@ -3,6 +3,7 @@
 fun returnNum(num : Int) : Int{
     return num
 }
+fun returnNum1(num : Int) = num
 
 fun returnNothing() : Int {
     println("This is nothing")
