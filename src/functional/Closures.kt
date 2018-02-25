@@ -1,0 +1,4 @@
+package functional
+
+fun outsideFunction(){
+}
